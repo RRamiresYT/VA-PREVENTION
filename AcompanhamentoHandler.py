@@ -1,7 +1,7 @@
 from flask import jsonify
 import json
 from datetime import datetime
-import DBHandler
+#import DBHandler
 
 # ---------------------------------   MOTOR DE DIÁLOGO   ---------------------------------
 
