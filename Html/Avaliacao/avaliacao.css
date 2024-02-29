@@ -1,0 +1,12 @@
+@import url(../ui-layout/colors.css);
+@import url(../ui-layout/sizes.css);
+
+
+
+#hiddenDiv {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    background-color: lightgray;
+    border: 1px solid gray;
+}

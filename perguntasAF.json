@@ -1,0 +1,78 @@
+{
+    "Q01": {
+        "pergunta": "Primeiro, gostaria de saber se exerce uma atividade profissional?",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q02": {
+        "pergunta": "O seu trabalho envolve atividades de intensidade vigorosa que exigem um esforço físico e que leva a um forte aumento da respiração ou dos batimentos cardíacos durante pelo menos 10 minutos de forma contínua?",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q03": {
+        "pergunta": "Numa semana típica, quantos dias faz essas atividades de intensidade vigorosa como parte do seu trabalho?",
+        "resposta": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "Q04": {
+        "pergunta": "Quanto tempo gasta, por dia, a fazer essas atividades de intensidade vigorosa?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q05": {
+        "pergunta": "O seu trabalho envolve atividade de intensidade moderada que exige um esforço físico moderado e que leva a pequenos aumentos da respiração ou dos batimentos cardíacos durante pelo menos 10 minutos de forma contínua?",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q06": {
+        "pergunta": "Considerando a sua semana habitual, quantos dias faz essas atividades de intensidade moderada como parte do seu trabalho?",
+        "resposta": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "Q07": {
+        "pergunta": "Quanto tempo gasta, por dia, a fazer essas atividades de intensidade moderada?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q08": {
+        "pergunta": "Caminha ou usa bicicleta (não elétrica) durante pelo menos 10 minutos continuamente para se deslocar entre lugares? ",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q09": {
+        "pergunta": "Considerando a sua semana habitual, quantos dias caminha ou usa bicicleta por pelo menos 10 minutos continuamente para se deslocar entre lugares?  ",
+        "resposta": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "Q10": {
+        "pergunta": "Quanto tempo gasta, por dia, a caminhar ou a andar de bicicleta para viajar?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q11": {
+        "pergunta": "No seu tempo de lazer, faz algum desporto, exercício ou outras atividades recreativas de intensidade vigorosa que causam o forte aumento na respiração ou dos batimentos cardíacos, durante pelo menos 10 minutos de forma contínua?",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q12": {
+        "pergunta": "Considerando a sua semana habitual, quantos dias pratica desporto, exercício ou atividades recreativas de intensidade vigorosa no seu tempo de lazer? ",
+        "resposta": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "Q13": {
+        "pergunta": "Quanto tempo gasta, por dia, a praticar desporto, exercício ou atividades recreativas de intensidade vigorosa no seu tempo de lazer?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q14": {
+        "pergunta": "No seu tempo de lazer, pratica algum desporto, exercício ou atividades recreativas de intensidade moderada que provocam um pequeno aumento na respiração ou batimentos cardíacos por pelo menos 10 minutos de forma contínua?",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q15": {
+        "pergunta": "Considerando a sua semana habitual, quantos dias pratica desporto, exercício ou atividades recreativas de intensidade moderada no seu tempo de lazer?  ",
+        "resposta": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "Q16": {
+        "pergunta": "Quanto tempo gasta, por dia, a praticar desporto, exercício ou atividades recreativas de intensidade moderada no seu tempo de lazer?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q17": {
+        "pergunta": "Quanto tempo costuma passar sentado(a), deitado(a) ou reclinado(a) num dia habitual?",
+        "resposta": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"]
+    },
+    "Q18": {
+        "pergunta": "Costuma passar mais do que 30 min seguidos sentado, deitado ou reclinado (sem ser a dormir durante a noite), num dia habitual? ",
+        "resposta": ["Sim", "Nao"]
+    },
+    "Q19": {
+        "pergunta": "Quantas vezes por dia passa mais do que 30 min seguidos sentado, deitado ou reclinado?",
+        "resposta": ["Menos de 3", "Entre 3 e 5", "Mais de 5"]
+    }
+}

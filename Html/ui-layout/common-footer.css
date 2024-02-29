@@ -1,0 +1,19 @@
+@import url(../ui-layout/colors.css);
+@import url(../ui-layout/sizes.css);
+
+
+footer {
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: var(--main-blue);
+}
+
+footer span {
+    color: var(--main-orange);
+}

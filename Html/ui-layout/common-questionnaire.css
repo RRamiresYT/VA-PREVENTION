@@ -1,0 +1,16 @@
+@import url(../ui-layout/var-colors.css);
+@import url(../ui-layout/sizes.css);
+
+.main-questionnaire-block{
+    position: relative;
+    padding: 15px 0;
+    margin: 0 auto;
+    width: var(--ui-width);
+    max-width: var(--ui-max-width);
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}

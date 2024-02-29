@@ -1,0 +1,116 @@
+@import url(../ui-layout/var-colors.css);
+@import url(../ui-layout/var-sizes.css);
+
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar {
+    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 70px;
+    border-bottom: 4px solid var(--main-orange);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--main-blue);
+    z-index: 100;
+}
+
+.nav-width-sized {
+    position: relative;
+    width: var(--ui-width);
+    max-width: var(--ui-max-width);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* IF TEXT */
+/* .nav-left {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+} */
+
+/* IF IMAGE */
+.nav-left {
+    position: relative;
+    height: 40px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+}
+
+.nav-left h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+    color: white;
+}
+
+.nav-left h1 span {
+    color: var(--main-orange);
+}
+
+.nav-left p {
+    text-transform: uppercase;
+    font-size: 12px;
+    color: var(--main-orange);
+}
+
+.nav-left #logo {
+    position: relative;
+    width: auto;
+    height: 100%;
+}
+
+.nav-right {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.nav-right a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-bottom {
+    position: relative;
+    height: 30px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--main-orange);
+    color: white;
+}
+
+#saberMais{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#saberMaisA{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+:root{
+    --white: white;
+    --black: black;
+    /* --secondary-blue: #1fc1c3; */
+    /* --main-blue: rgba(10, 37, 59, 1);
+    --main-orange: rgb(239, 156, 0); */
+    --main-orange: #E36C09;
+    --main-blue: #366092;
+    --box-shadow: 2px 2px 15px 6px rgba(97, 97, 97, 0.1);
+}

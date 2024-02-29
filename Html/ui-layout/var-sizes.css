@@ -1,0 +1,4 @@
+:root {
+    --ui-width: calc(100% - 50px);
+    --ui-max-width: 1400px;
+}
