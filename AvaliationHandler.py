@@ -1,7 +1,7 @@
 from flask import jsonify
 import json
 from datetime import datetime
-import DBHandler
+#import DBHandler
 
 
 # ---------------------------------   AVALIAÇÃO DA ALIMENTAÇÂO   ---------------------------------
@@ -46,20 +46,20 @@ def postAvaliation(dados):
         user_id=3
         
         insertStatement=(azeite, horticolas, fruta, carne, gorduras, refrigerantes, alcool, leguminosas, peixe, pastelaria, oleaginosas, user_id, datetime.now())
-        result = DBHandler.insertAvaliacao(insertStatement)
+        #result = DBHandler.insertAvaliacao(insertStatement)
 
     except Exception as error:
         print(error)
         return
 
 def getHabitosN(userN):
-    results = DBHandler.selectHabitosN(userN)
-    print(results)
+    #results = DBHandler.selectHabitosN(userN)
+    #print(results)
     print("A")
 
 
     #TESTE
-
+    '''
     azeite=results[0][1]
     horticolas=results[0][2]
     fruta=results[0][3]
@@ -105,7 +105,7 @@ def getHabitosN(userN):
     filtered_questions = {key: questions[key] for key in variables_with_N if key in questions}
 
     print(filtered_questions)
-    return filtered_questions
+    return filtered_questions'''
     
 
     #return results
