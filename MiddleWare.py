@@ -5,7 +5,7 @@ from flask_cors import CORS
 import datetime
 import AvaliationHandler
 import AcompanhamentoHandler
-import DBHandler
+#import DBHandler
 
 app = Flask(__name__)
 CORS(app)
